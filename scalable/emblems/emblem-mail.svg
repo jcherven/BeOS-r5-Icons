@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 10.0.3, SVG Export Plug-In . SVG Version: 3.0.0 Build 77)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" 
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" width="128" height="83"
+	 viewBox="-0.458 -0.171 128 83" overflow="visible" enable-background="new -0.458 -0.171 128 83" xml:space="preserve">
+	<g id="Layer_1_2_">
+		<g>
+			<linearGradient id="XMLID_1_" gradientUnits="userSpaceOnUse" x1="50.8618" y1="23.2285" x2="97.3432" y2="103.1439">
+				<stop  offset="0" style="stop-color:#FDFEED"/>
+				<stop  offset="1" style="stop-color:#FFF24B"/>
+			</linearGradient>
+			<path fill="url(#XMLID_1_)" d="M78.062,77.908L2.805,40.533L43.1,1.971l75.258,37.373L78.062,77.908z"/>
+		</g>
+		<path d="M41.973,0.791L0,40.961l78.363,38.918l42.801-40.963L42.799,0L41.973,0.791z M43.4,3.939
+			c1.939,0.965,68.273,33.906,72.152,35.832c-3.016,2.887-36.27,34.711-37.789,36.166C75.822,74.975,9.488,42.031,5.609,40.105
+			C8.627,37.219,41.881,5.395,43.4,3.939z"/>
+		<path opacity="0.3"  a:adobe-blending-mode="multiply" d="M77.33,74.244C75.912,70.305,5.607,40.104,5.607,40.104l72.156,35.834
+			l37.789-36.166C115.553,39.771,78.59,70.146,77.33,74.244z"/>
+		<g>
+			
+				<linearGradient id="XMLID_2_" gradientUnits="userSpaceOnUse" x1="104.6924" y1="201.8262" x2="109.5263" y2="190.9498" gradientTransform="matrix(1.2592 0.6546 -0.1787 1.0177 -6.1371 -225.4912)">
+				<stop  offset="0" style="stop-color:#3384DE"/>
+				<stop  offset="1" style="stop-color:#5FABFF"/>
+			</linearGradient>
+			<path fill="url(#XMLID_2_)" d="M97.365,50.24l-12.902-6.406l9.637-9.223L107,41.02L97.365,50.24z"/>
+		</g>
+		<path opacity="0.5"  a:adobe-blending-mode="multiply" d="M93.215,35.084c0,0,11.424,5.674,12.381,6.148
+			c-0.768,0.734-9.635,9.221-9.635,9.221L107,41.02L93.215,35.084z"/>
+		<path fill="#FFFFFF"  a:adobe-blending-mode="overlay" d="M96.844,49.982c0,0-0.756,0.459-2.504-0.41
+			c-3.455-1.717-9.24-5.424-9.877-5.738c0.768-0.736,9.635-9.221,9.635-9.221L92.9,34.223L82.107,44.295L96.844,49.982z"/>
+		<linearGradient id="XMLID_3_" gradientUnits="userSpaceOnUse" x1="82.1553" y1="51.5557" x2="55.2481" y2="34.4329">
+			<stop  offset="0" style="stop-color:#D8DAA1"/>
+			<stop  offset="1" style="stop-color:#5C5C3A"/>
+		</linearGradient>
+		<path fill="url(#XMLID_3_)" d="M47.592,32.963l25.598,12.66l0.975-2.555L49.943,30.436L47.592,32.963z"/>
+		<linearGradient id="XMLID_4_" gradientUnits="userSpaceOnUse" x1="79.2383" y1="56.8252" x2="52.0697" y2="39.5361">
+			<stop  offset="0" style="stop-color:#D8DAA1"/>
+			<stop  offset="1" style="stop-color:#5C5C3A"/>
+		</linearGradient>
+		<path fill="url(#XMLID_4_)" d="M45.434,38.754l23.111,11.312l1.787-2.35L47.674,36.061L45.434,38.754z"/>
+		<linearGradient id="XMLID_5_" gradientUnits="userSpaceOnUse" x1="76.1309" y1="61.0303" x2="49.2207" y2="43.9056">
+			<stop  offset="0" style="stop-color:#D8DAA1"/>
+			<stop  offset="1" style="stop-color:#5C5C3A"/>
+		</linearGradient>
+		<path fill="url(#XMLID_5_)" d="M51.225,48.18l19.486,8.639l1.182-1.484l-18.176-9.521L51.225,48.18z"/>
+		<linearGradient id="XMLID_6_" gradientUnits="userSpaceOnUse" x1="64.2329" y1="18.2109" x2="55.2675" y2="14.1358">
+			<stop  offset="0" style="stop-color:#D8DAA1"/>
+			<stop  offset="1" style="stop-color:#5C5C3A"/>
+		</linearGradient>
+		<path fill="url(#XMLID_6_)" d="M41.346,8.775l17.506,8.795l0.863-1.58l-16.32-9.057L41.346,8.775z"/>
+		<g>
+			<linearGradient id="XMLID_7_" gradientUnits="userSpaceOnUse" x1="56.1475" y1="20.5493" x2="42.2841" y2="14.0254">
+				<stop  offset="0" style="stop-color:#D8DAA1"/>
+				<stop  offset="1" style="stop-color:#5C5C3A"/>
+			</linearGradient>
+			<path fill="url(#XMLID_7_)" d="M37.029,13.092l17.756,7.828l1.033-1.629l-16.68-8.285L37.029,13.092z"/>
+		</g>
+		<path opacity="0.2"  a:adobe-blending-mode="multiply" d="M0,40.961l79.566,42.045l48.111-42.404l-6.514-1.686L78.363,79.879
+			L0,40.961z"/>
+	</g>
+</svg>

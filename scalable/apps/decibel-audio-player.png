@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#010101; stroke-width:4"
+        d="M32 2C15.43 2 2 15.43 2 32C2 48.56 15.43 62 32 62C48.56 62 62 48.56 62 32C62 15.43 48.56 2 32 2z"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="34.83" y1="123.49" x2="-57.49" y2="34.83">
+   <stop offset="0" stop-color="#010101"/>
+   <stop offset="0.7786" stop-color="#707070"/>
+   <stop offset="0.8167" stop-color="#737373"/>
+   <stop offset="1" stop-color="#ffffff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M32 2C15.43 2 2 15.43 2 32C2 48.56 15.43 62 32 62C48.56 62 62 48.56 62 32C62 15.43 48.56 2 32 2z"
+  />
+  <radialGradient id="gradient1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="64" gradientTransform="matrix(0.6718,0,0,0.6718,17,17)">
+   <stop offset="0.7487" stop-color="#4b4b4b"/>
+   <stop offset="0" stop-color="#848484"/>
+   <stop offset="1" stop-color="#323232"/>
+  </radialGradient>
+  <path style="fill:url(#gradient1)"
+        d="M32 2C15.43 2 2 15.43 2 32C2 48.56 15.43 62 32 62C48.56 62 62 48.56 62 32C62 15.43 48.56 2 32 2z"
+        transform="matrix(0.4666,0,0,0.4666,17.0666,17.0666)"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="34.73" y1="-11.34" x2="77.67" y2="36.11">
+   <stop offset="0.632" stop-color="#434343"/>
+   <stop offset="1" stop-color="#ffffff"/>
+  </linearGradient>
+  <path style="fill:none; stroke:url(#gradient2); stroke-width:2.0999"
+        d="M32 2C15.43 2 2 15.43 2 32C2 48.56 15.43 62 32 62C48.56 62 62 48.56 62 32C62 15.43 48.56 2 32 2z"
+        transform="matrix(0.9062,0,0,0.9062,2.9999,2.9999)"
+  />
+  <linearGradient id="gradient3" gradientUnits="userSpaceOnUse" x1="29.9" y1="77.2" x2="-12.81" y2="29.55">
+   <stop offset="0.6735" stop-color="#080808"/>
+   <stop offset="1" stop-color="#ffffff"/>
+  </linearGradient>
+  <path style="fill:none; stroke:url(#gradient3); stroke-width:2.0999"
+        d="M32 2C15.43 2 2 15.43 2 32C2 48.56 15.43 62 32 62C48.56 62 62 48.56 62 32C62 15.43 48.56 2 32 2z"
+        transform="matrix(0.8417,0,0,0.842,5.0644,5.0641)"
+  />
+ </g>
+</svg>

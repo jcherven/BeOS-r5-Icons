@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24pt"
+   height="24pt"
+   viewBox="0 0 251.5 251.5"
+   style="overflow:visible;enable-background:new 0 0 251.5 251.5"
+   xml:space="preserve"
+   id="svg1051"
+   sodipodi:version="0.32"
+   sodipodi:docname="emblem-symbolic-link.svg"
+   sodipodi:docbase="/home/cschalle/gnome-themes-extras/Wasp/icons/scalable/emblems/"
+   inkscape:version="0.46"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"><metadata
+   id="metadata9"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata>
+  <defs
+   id="defs1058"><inkscape:perspective
+     sodipodi:type="inkscape:persp3d"
+     inkscape:vp_x="0 : 15 : 1"
+     inkscape:vp_y="0 : 1000 : 0"
+     inkscape:vp_z="30 : 15 : 1"
+     inkscape:persp3d-origin="15 : 10 : 1"
+     id="perspective11" /></defs>
+  <sodipodi:namedview
+   id="base"
+   showgrid="false"
+   inkscape:zoom="15.466667"
+   inkscape:cx="15"
+   inkscape:cy="14.236353"
+   inkscape:window-width="640"
+   inkscape:window-height="682"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:current-layer="svg1051" />
+  <g
+   id="g1053"
+   style="font-size:12px;stroke:#000000"
+   transform="matrix(1.6412069,0,0,1.6247023,120.81917,-157.10264)">
+    <path
+   style="fill:#ffffff;stroke-width:5"
+   d="M 77.716,173.784 L 2.5,173.784 L 2.5,249 L 77.716,249 L 77.716,173.784 z"
+   id="path1054" />
+    <path
+   style="stroke:none"
+   d="M 63.19,187.605 L 55.919,214.741 L 48.648,241.878 L 28.783,222.013 L 8.917,202.147 L 36.054,194.876 L 63.19,187.605 z"
+   id="path1055" />
+  </g>
+  <path
+   style="font-size:12;fill:none;"
+   d="M251.5,0H0.5v251h251V0z"
+   id="path1056" />
+</svg>

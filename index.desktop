@@ -1,0 +1,23 @@
+[KDE Icon Theme]
+Name=BeOS-r5
+Name[hu]=BeOS-r5
+Name[ro]=BeOS-r5
+Comment=BeOS Icon Theme
+Comment[hu]=BeOS stielusuu ikon teema
+Comment[ro]=Tema pentru icoane in stil BeOS
+DisplayDepth=32
+Example=exec
+LinkOverlay=linkoverlay
+LockOverlay=lockoverlay
+ZipOverlay=zipoverlay
+DesktopDefault=32
+DesktopSizes=16,32,48,64
+ToolbarDefault=16
+ToolbarSizes=16
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32
+SmallDefault=16
+SmallSizes=16
+PanelDefault=32
+PanelSizes=16,32,48
+Directories=16x16/actions,16x16/apps,22x22/apps,32x32/apps,48x48/apps,64x64/apps,128x128/apps,256x256/apps,16x16/categories,32x32/categories,16x16/devices,32x32/devices,48x48/devices,64x64/devices,128x128/devices,8x8/emblems,16x16/emblems,16x16/mimetypes,22x22/mimetypes,32x32/mimetypes,48x48/mimetypes,64x64/mimetypes,128x128/mimetypes,48x48/devices

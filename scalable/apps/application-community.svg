@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="32pt"
+   height="32pt"
+   viewBox="0 0 22.741 24.318"
+   id="svg153"
+   xml:space="preserve"
+   style="overflow:visible">
+  
+  <metadata
+   id="metadata154">
+    <sfw
+   id="sfw5">
+      <slices
+   id="slices7" />
+      <sliceSourceBounds
+   id="sliceSourceBounds9"
+   bottomLeftOrigin="true"
+   height="24.318"
+   width="22.741"
+   x="267.471"
+   y="388.643" />
+    </sfw>
+  <rdf:RDF><cc:Work
+     rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata>
+  <defs
+   id="defs155">
+    <filter
+   filterUnits="objectBoundingBox"
+   color-interpolation-filters="sRGB"
+   id="SVG_InvertMaskClipFilter">
+      <feColorMatrix
+   id="feColorMatrix13"
+   color-interpolation-filters="sRGB"
+   values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0"
+   type="matrix" />
+    </filter>
+  </defs>
+  <defs
+   id="defs157">
+    <filter
+   filterUnits="objectBoundingBox"
+   color-interpolation-filters="sRGB"
+   id="SVG_InvertMaskFilter">
+      <feColorMatrix
+   id="feColorMatrix17"
+   result="source"
+   color-interpolation-filters="sRGB"
+   values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0"
+   type="matrix" />
+      <feColorMatrix
+   id="feColorMatrix19"
+   result="back"
+   in="BackgroundImage"
+   values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0 1"
+   type="matrix" />
+      <feBlend
+   in2="back"
+   mode="normal"
+   in="source"
+   id="feBlend21" />
+    </filter>
+  </defs>
+  <defs
+   id="defs159">
+    <filter
+   filterUnits="objectBoundingBox"
+   color-interpolation-filters="sRGB"
+   id="SVG_MaskClipFilter">
+      <feColorMatrix
+   id="feColorMatrix25"
+   values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+   type="matrix" />
+    </filter>
+  </defs>
+  <defs
+   id="defs161">
+    <filter
+   filterUnits="objectBoundingBox"
+   color-interpolation-filters="sRGB"
+   id="SVG_MaskFilter">
+      <feColorMatrix
+   id="feColorMatrix29"
+   result="back"
+   in="BackgroundImage"
+   values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0 1"
+   type="matrix" />
+      <feBlend
+   in2="back"
+   mode="normal"
+   in="SourceGraphic"
+   id="feBlend31" />
+    </filter>
+  </defs>
+  <g
+   id="Layer_1"
+   style="stroke:#000000">
+    <linearGradient
+   x1="-215.91701"
+   y1="325.49411"
+   x2="-222.9362"
+   y2="324.38589"
+   id="XMLID_1_"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(1,0,0,-1,238.2041,344.2969)">
+      <stop
+   id="stop165"
+   style="stop-color:#ffffff;stop-opacity:1"
+   offset="0" />
+      <stop
+   id="stop166"
+   style="stop-color:#000000;stop-opacity:1"
+   offset="1" />
+      
+      
+      
+    </linearGradient>
+    <path
+   d="m 8.575,24.318 12.3,-1.044 c 0,0 2.24,-1.307 1.867,-5.04 -0.134,-1.339 -4.853,-2.985 -4.853,-2.985 l -9.314,9.069 z"
+   id="path170"
+   style="opacity:0.2;fill:url(#XMLID_1_);stroke:none" />
+    <g
+   id="g171">
+      <linearGradient
+   x1="-195.166"
+   y1="470.93951"
+   x2="-175.04401"
+   y2="470.93951"
+   id="XMLID_2_"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.8031,-0.3416,0,-1,-137.3466,429.1258)">
+        <stop
+   id="stop173"
+   style="stop-color:#ff0000;stop-opacity:1"
+   offset="0" />
+        <stop
+   id="stop174"
+   style="stop-color:#ff6666;stop-opacity:1"
+   offset="1" />
+        
+        
+        
+      </linearGradient>
+      <path
+   d="m 11.45,21.537 c 0,0 -0.05,-0.063 -0.139,-0.181 -0.089,0.041 -0.14,0.063 -0.14,0.063 l 0.279,0.118 z"
+   id="path178"
+   style="fill:url(#XMLID_2_);stroke:none" />
+      <linearGradient
+   x1="-192.04691"
+   y1="470.93951"
+   x2="-171.9249"
+   y2="470.93951"
+   id="XMLID_3_"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.8031,-0.3416,0,-1,-137.3466,429.1258)">
+        <stop
+   id="stop180"
+   style="stop-color:#ff0000;stop-opacity:1"
+   offset="0" />
+        <stop
+   id="stop181"
+   style="stop-color:#ff6666;stop-opacity:1"
+   offset="1" />
+        
+        
+        
+      </linearGradient>
+      <path
+   d="m 11.45,21.537 c 0,0 -0.05,-0.063 -0.139,-0.181 -0.089,0.041 -0.14,0.063 -0.14,0.063 l 0.279,0.118 z"
+   id="path185"
+   style="fill:url(#XMLID_3_);stroke:none" />
+    </g>
+    <path
+   d="M 5.156,0.293 C 4.728,0.49 4.339,0.739 4,1.033 L 4.063,0.982 1.73,2.644 c -5.799,4.434 4.374,18.387 6.472,21.14 l 0.408,0.535 0.611,-0.282 c 0.576,-0.265 2.588,-1.254 4.513,-2.891 1.741,-1.067 5.756,-3.943 6.633,-8.203 0.111,-0.538 0.166,-1.077 0.166,-1.614 0,-1.811 -0.628,-3.609 -1.877,-5.368 C 17.303,4.058 15.8,3.52 14.776,3.404 13.712,3.284 12.662,3.582 11.967,4.202 l 0.069,-0.056 c 0,0 -0.188,0.135 -0.289,0.207 C 11.222,3.068 10.125,1.561 8.798,0.702 7.567,-0.096 6.308,-0.236 5.156,0.293 z"
+   id="path186"
+   style="stroke:none" />
+    <linearGradient
+   x1="-230.769"
+   y1="338.85251"
+   x2="-232.32851"
+   y2="341.45169"
+   id="XMLID_4_"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(1,0,0,-1,238.2041,344.2969)">
+      <stop
+   id="stop188"
+   style="stop-color:#ff0000;stop-opacity:1"
+   offset="0" />
+      <stop
+   id="stop189"
+   style="stop-color:#ff6666;stop-opacity:1"
+   offset="1" />
+      
+      
+      
+    </linearGradient>
+    <path
+   d="M 5.448,0.94 C 5.078,1.111 4.762,1.317 4.492,1.551 L 2.158,3.213 5.226,2.832 c 2.207,1.188 3.585,5.201 3.585,5.201 0,0 0.877,-1.812 2.354,-2.193 C 11.502,4.6 8.437,-0.433 5.448,0.94 z"
+   id="path193"
+   style="fill:url(#XMLID_4_);stroke:none" />
+    <linearGradient
+   x1="-224.3506"
+   y1="335.39551"
+   x2="-221.9295"
+   y2="328.82419"
+   id="XMLID_5_"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(1,0,0,-1,238.2041,344.2969)">
+      <stop
+   id="stop195"
+   style="stop-color:#ff0000;stop-opacity:1"
+   offset="0" />
+      <stop
+   id="stop196"
+   style="stop-color:#bd0000;stop-opacity:1"
+   offset="1" />
+      
+      
+      
+    </linearGradient>
+    <path
+   d="M 17.913,6.331 C 15.973,3.602 13.493,3.799 12.467,4.714 l -2.263,1.621 2.572,0.901 0.604,-0.835 c 0.411,0.307 0.842,0.739 1.293,1.33 4.327,5.67 1.196,10.343 -1.857,12.963 3.435,-2.09 9.775,-7.778 5.097,-14.363 z"
+   id="path200"
+   style="fill:url(#XMLID_5_);stroke:none" />
+    <linearGradient
+   x1="-229.397"
+   y1="330.49609"
+   x2="-229.397"
+   y2="337.2937"
+   id="XMLID_6_"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(1,0,0,-1,238.2041,344.2969)">
+      <stop
+   id="stop202"
+   style="stop-color:#ff0000;stop-opacity:1"
+   offset="0" />
+      <stop
+   id="stop203"
+   style="stop-color:#ff6666;stop-opacity:1"
+   offset="1" />
+      
+      
+      
+    </linearGradient>
+    <path
+   d="M 14.674,7.731 C 11.176,3.148 8.811,8.033 8.811,8.033 c 0,0 -2.366,-6.897 -5.863,-5.29 -6.953,3.196 4.395,18.486 5.852,20.399 0.008,0.011 0.017,0.021 0.024,0.032 -10e-4,0.001 13.271,-5.718 5.85,-15.443 z"
+   id="path207"
+   style="fill:url(#XMLID_6_);stroke:none" />
+    <mask
+   id="XMLID_7_">
+      <g
+   id="g209"
+   style="filter:url(#SVG_MaskFilter)">
+        <mask
+   id="XMLID_8_">
+          <g
+   id="g211" />
+        </mask>
+        <image
+   xlink:href="/home/leszek/Desktop/Downloads/zevenos4/debs/xubuntu-artwork-11.10.zevenos1/usr/share/icons/BeOS/scalable/emblems/FB57C4F4.jpg"
+   width="59"
+   height="75"
+   transform="matrix(0.28,0,0,0.28,0.7114,2.5)"
+   mask="url(#XMLID_8_)"
+   id="image212" />
+      </g>
+    </mask>
+  </g>
+</svg>

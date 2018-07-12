@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#000000; fill-opacity:0.4431"
+        d="M62 50L50 44L30 64H50C56 64 68 53 62 50z"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4"
+        d="M50 44L50 34C50 23.52 43.94 12.97 34.01 8C27.77 4.88 22 6 18.06 7.92C14 10 9.56 14.41 9.56 14.41V14.42C7.32 16.46 6 19.72 6.01 23.98L6 39C6 42 8.36 47.98 11 51C18 59 25 62 30 62C45 62 50 48 50 44z"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="66" y1="-81.76" x2="122.5" y2="-25.25">
+   <stop offset="0.2575" stop-color="#1942e7"/>
+   <stop offset="0.5227" stop-color="#97c3ff"/>
+   <stop offset="0.8825" stop-color="#032288"/>
+   <stop offset="1" stop-color="#203bac"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M50 44L50 34C50 23.52 43.94 12.97 34.01 8C27.77 4.88 22 6 18.06 7.92C14 10 9.56 14.41 9.56 14.41V14.42L30 62C45 62 50 48 50 44z"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="82.63" y1="-50.34" x2="118.46" y2="-5.81">
+   <stop offset="0.228" stop-color="#33a2ff"/>
+   <stop offset="0.8323" stop-color="#3369ff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M24 14C14.06 9.02 6 13.48 6.01 23.98L6 39C6 42 8.36 47.98 11 51C18 59 25 62 30 62C45 62 42.02 42 42.02 42C42 31.52 33.94 18.97 24.01 14H24z"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="15.05" y1="6.93" x2="44.02" y2="35.9">
+   <stop offset="0" stop-color="#97c3ff"/>
+   <stop offset="0.25" stop-color="#e3ecff"/>
+   <stop offset="1" stop-color="#3369ff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient2)"
+        d="M24 14H24C33.31 18.66 40.97 29.97 41.92 40C41.9 29.52 35.93 16.97 26.01 12H26C19.28 8.63 13.43 9.59 10.34 13.78C13.64 11.38 18.53 11.26 24 14H24z"
+  />
+  <path style="fill:#ffffff"
+        d="M31 49L22 54V39L16.04 42.47L14.04 39.06L20.82 35.16L14.05 23.58L16.03 22.43L22 32V17L31.3 33.5L25 37L31 49z
+           M24 40V48L27.5 46.35L24 40z
+           M24 33L27.47 31.41L24 25V33z"
+  />
+ </g>
+</svg>

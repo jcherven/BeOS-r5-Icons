@@ -1,0 +1,1831 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- (c)2005 by yellowTAB GmbH. All rights reserved. It is prohibited to redistribute or publish thisor derivitive works of this data without prior express written permission from yellowTAB GmbH.  -->
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200.333"
+   height="215.841"
+   viewBox="0 0 200.333 215.841"
+   overflow="visible"
+   enable-background="new 0 0 200.333 215.841"
+   xml:space="preserve"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="devices.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"><svg:metadata
+   id="metadata567"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></svg:metadata><svg:defs
+   id="defs565"><inkscape:perspective
+   sodipodi:type="inkscape:persp3d"
+   inkscape:vp_x="0 : 107.9205 : 1"
+   inkscape:vp_y="0 : 1000 : 0"
+   inkscape:vp_z="200.33299 : 107.9205 : 1"
+   inkscape:persp3d-origin="100.1665 : 71.947001 : 1"
+   id="perspective569" />
+		
+		
+		
+		<svg:linearGradient
+   y2="96.1255"
+   x2="154.0723"
+   y1="96.1255"
+   x1="5.313"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_1_">
+			<svg:stop
+   id="stop12"
+   style="stop-color:#0D8538"
+   offset="0" />
+			<svg:stop
+   id="stop14"
+   style="stop-color:#0D8035"
+   offset="0.3638" />
+			<svg:stop
+   id="stop16"
+   style="stop-color:#0C702D"
+   offset="0.8157" />
+			<svg:stop
+   id="stop18"
+   style="stop-color:#0C6828"
+   offset="1" />
+			<midPointStop
+   style="stop-color:#0D8538"
+   offset="0" />
+			<midPointStop
+   style="stop-color:#0D8538"
+   offset="0.661" />
+			<midPointStop
+   style="stop-color:#0C6828"
+   offset="1" />
+		</svg:linearGradient>
+		
+		
+		
+		
+		<svg:linearGradient
+   y2="87.6255"
+   x2="120.3774"
+   y1="95.4019"
+   x1="127.4775"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_15_">
+			<svg:stop
+   id="stop382"
+   style="stop-color:#5E91C3"
+   offset="0" />
+			<svg:stop
+   id="stop384"
+   style="stop-color:#5B8CC0"
+   offset="0.1392" />
+			<svg:stop
+   id="stop386"
+   style="stop-color:#537CB8"
+   offset="0.3125" />
+			<svg:stop
+   id="stop388"
+   style="stop-color:#4663AB"
+   offset="0.504" />
+			<svg:stop
+   id="stop390"
+   style="stop-color:#334099"
+   offset="0.7084" />
+			<svg:stop
+   id="stop392"
+   style="stop-color:#1C1382"
+   offset="0.9211" />
+			<svg:stop
+   id="stop394"
+   style="stop-color:#120078"
+   offset="1" />
+			<midPointStop
+   style="stop-color:#5E91C3"
+   offset="0" />
+			<midPointStop
+   style="stop-color:#5E91C3"
+   offset="0.661" />
+			<midPointStop
+   style="stop-color:#120078"
+   offset="1" />
+		</svg:linearGradient>
+		
+		<svg:linearGradient
+   y2="95.5792"
+   x2="112.3652"
+   y1="95.7451"
+   x1="124.1436"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_16_">
+			<svg:stop
+   id="stop399"
+   style="stop-color:#5760AA"
+   offset="0" />
+			<svg:stop
+   id="stop401"
+   style="stop-color:#535BA7"
+   offset="0.178" />
+			<svg:stop
+   id="stop403"
+   style="stop-color:#484B9F"
+   offset="0.3996" />
+			<svg:stop
+   id="stop405"
+   style="stop-color:#363292"
+   offset="0.6443" />
+			<svg:stop
+   id="stop407"
+   style="stop-color:#1D0F80"
+   offset="0.9039" />
+			<svg:stop
+   id="stop409"
+   style="stop-color:#120078"
+   offset="1" />
+			<midPointStop
+   style="stop-color:#5760AA"
+   offset="0" />
+			<midPointStop
+   style="stop-color:#5760AA"
+   offset="0.661" />
+			<midPointStop
+   style="stop-color:#120078"
+   offset="1" />
+		</svg:linearGradient>
+		
+		
+		<svg:linearGradient
+   y2="163.0047"
+   x2="187.3316"
+   y1="134.5811"
+   x1="131.3867"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_17_">
+			<svg:stop
+   id="stop416"
+   style="stop-color:#A2A2A2"
+   offset="0" />
+			<svg:stop
+   id="stop418"
+   style="stop-color:#C7C7C7"
+   offset="0.3989" />
+			<svg:stop
+   id="stop420"
+   style="stop-color:#424242"
+   offset="0.9663" />
+			<svg:stop
+   id="stop422"
+   style="stop-color:#616161"
+   offset="1" />
+			<midPointStop
+   style="stop-color:#A2A2A2"
+   offset="0" />
+			<midPointStop
+   style="stop-color:#A2A2A2"
+   offset="0.5" />
+			<midPointStop
+   style="stop-color:#C7C7C7"
+   offset="0.3989" />
+			<midPointStop
+   style="stop-color:#C7C7C7"
+   offset="0.5" />
+			<midPointStop
+   style="stop-color:#424242"
+   offset="0.9663" />
+			<midPointStop
+   style="stop-color:#424242"
+   offset="0.5" />
+			<midPointStop
+   style="stop-color:#616161"
+   offset="1" />
+		</svg:linearGradient>
+		
+		<svg:linearGradient
+   y2="123.8708"
+   x2="152.8409"
+   y1="113.1431"
+   x1="138.7109"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_18_">
+			<svg:stop
+   id="stop427"
+   style="stop-color:#FFFFFF"
+   offset="0" />
+			<svg:stop
+   id="stop429"
+   style="stop-color:#000000"
+   offset="1" />
+			<midPointStop
+   style="stop-color:#FFFFFF"
+   offset="0" />
+			<midPointStop
+   style="stop-color:#FFFFFF"
+   offset="0.5" />
+			<midPointStop
+   style="stop-color:#000000"
+   offset="1" />
+		</svg:linearGradient>
+		
+		<svg:linearGradient
+   y2="154.458"
+   x2="153.627"
+   y1="143.7295"
+   x1="139.4961"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_19_">
+			<svg:stop
+   id="stop434"
+   style="stop-color:#FFFFFF"
+   offset="0" />
+			<svg:stop
+   id="stop436"
+   style="stop-color:#000000"
+   offset="1" />
+			<midPointStop
+   style="stop-color:#FFFFFF"
+   offset="0" />
+			<midPointStop
+   style="stop-color:#FFFFFF"
+   offset="0.5" />
+			<midPointStop
+   style="stop-color:#000000"
+   offset="1" />
+		</svg:linearGradient>
+		
+		<svg:linearGradient
+   y2="82.3813"
+   x2="170.7539"
+   y1="82.3813"
+   x1="134.1572"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_20_">
+			<svg:stop
+   id="stop441"
+   style="stop-color:#FFFFFF"
+   offset="0" />
+			<svg:stop
+   id="stop443"
+   style="stop-color:#616161"
+   offset="1" />
+			<midPointStop
+   style="stop-color:#FFFFFF"
+   offset="0" />
+			<midPointStop
+   style="stop-color:#FFFFFF"
+   offset="0.5" />
+			<midPointStop
+   style="stop-color:#616161"
+   offset="1" />
+		</svg:linearGradient>
+		
+		
+		<svg:linearGradient
+   y2="86.6113"
+   x2="170.7539"
+   y1="86.6113"
+   x1="149.1445"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_21_">
+			<svg:stop
+   id="stop450"
+   style="stop-color:#BBBBBB"
+   offset="0" />
+			<svg:stop
+   id="stop452"
+   style="stop-color:#424242"
+   offset="0.9663" />
+			<svg:stop
+   id="stop454"
+   style="stop-color:#616161"
+   offset="1" />
+			<midPointStop
+   style="stop-color:#BBBBBB"
+   offset="0" />
+			<midPointStop
+   style="stop-color:#BBBBBB"
+   offset="0.5" />
+			<midPointStop
+   style="stop-color:#424242"
+   offset="0.9663" />
+			<midPointStop
+   style="stop-color:#424242"
+   offset="0.5" />
+			<midPointStop
+   style="stop-color:#616161"
+   offset="1" />
+		</svg:linearGradient>
+		
+		
+		
+		<svg:linearGradient
+   y2="77.126"
+   x2="52.8778"
+   y1="84.9023"
+   x1="59.978"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_22_">
+			<svg:stop
+   id="stop463"
+   style="stop-color:#5E91C3"
+   offset="0" />
+			<svg:stop
+   id="stop465"
+   style="stop-color:#5B8CC0"
+   offset="0.1392" />
+			<svg:stop
+   id="stop467"
+   style="stop-color:#537CB8"
+   offset="0.3125" />
+			<svg:stop
+   id="stop469"
+   style="stop-color:#4663AB"
+   offset="0.504" />
+			<svg:stop
+   id="stop471"
+   style="stop-color:#334099"
+   offset="0.7084" />
+			<svg:stop
+   id="stop473"
+   style="stop-color:#1C1382"
+   offset="0.9211" />
+			<svg:stop
+   id="stop475"
+   style="stop-color:#120078"
+   offset="1" />
+			<midPointStop
+   style="stop-color:#5E91C3"
+   offset="0" />
+			<midPointStop
+   style="stop-color:#5E91C3"
+   offset="0.661" />
+			<midPointStop
+   style="stop-color:#120078"
+   offset="1" />
+		</svg:linearGradient>
+		
+		<svg:linearGradient
+   y2="85.0787"
+   x2="44.8662"
+   y1="85.2446"
+   x1="56.6445"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_23_">
+			<svg:stop
+   id="stop480"
+   style="stop-color:#5760AA"
+   offset="0" />
+			<svg:stop
+   id="stop482"
+   style="stop-color:#535BA7"
+   offset="0.178" />
+			<svg:stop
+   id="stop484"
+   style="stop-color:#484B9F"
+   offset="0.3996" />
+			<svg:stop
+   id="stop486"
+   style="stop-color:#363292"
+   offset="0.6443" />
+			<svg:stop
+   id="stop488"
+   style="stop-color:#1D0F80"
+   offset="0.9039" />
+			<svg:stop
+   id="stop490"
+   style="stop-color:#120078"
+   offset="1" />
+			<midPointStop
+   style="stop-color:#5760AA"
+   offset="0" />
+			<midPointStop
+   style="stop-color:#5760AA"
+   offset="0.661" />
+			<midPointStop
+   style="stop-color:#120078"
+   offset="1" />
+		</svg:linearGradient>
+		
+		
+		<svg:linearGradient
+   y2="97.626"
+   x2="18.8778"
+   y1="105.4023"
+   x1="25.978"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_24_">
+			<svg:stop
+   id="stop497"
+   style="stop-color:#5E91C3"
+   offset="0" />
+			<svg:stop
+   id="stop499"
+   style="stop-color:#5B8CC0"
+   offset="0.1392" />
+			<svg:stop
+   id="stop501"
+   style="stop-color:#537CB8"
+   offset="0.3125" />
+			<svg:stop
+   id="stop503"
+   style="stop-color:#4663AB"
+   offset="0.504" />
+			<svg:stop
+   id="stop505"
+   style="stop-color:#334099"
+   offset="0.7084" />
+			<svg:stop
+   id="stop507"
+   style="stop-color:#1C1382"
+   offset="0.9211" />
+			<svg:stop
+   id="stop509"
+   style="stop-color:#120078"
+   offset="1" />
+			<midPointStop
+   style="stop-color:#5E91C3"
+   offset="0" />
+			<midPointStop
+   style="stop-color:#5E91C3"
+   offset="0.661" />
+			<midPointStop
+   style="stop-color:#120078"
+   offset="1" />
+		</svg:linearGradient>
+		
+		<svg:linearGradient
+   y2="105.5792"
+   x2="10.8662"
+   y1="105.7451"
+   x1="22.6445"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_25_">
+			<svg:stop
+   id="stop514"
+   style="stop-color:#5760AA"
+   offset="0" />
+			<svg:stop
+   id="stop516"
+   style="stop-color:#535BA7"
+   offset="0.178" />
+			<svg:stop
+   id="stop518"
+   style="stop-color:#484B9F"
+   offset="0.3996" />
+			<svg:stop
+   id="stop520"
+   style="stop-color:#363292"
+   offset="0.6443" />
+			<svg:stop
+   id="stop522"
+   style="stop-color:#1D0F80"
+   offset="0.9039" />
+			<svg:stop
+   id="stop524"
+   style="stop-color:#120078"
+   offset="1" />
+			<midPointStop
+   style="stop-color:#5760AA"
+   offset="0" />
+			<midPointStop
+   style="stop-color:#5760AA"
+   offset="0.661" />
+			<midPointStop
+   style="stop-color:#120078"
+   offset="1" />
+		</svg:linearGradient>
+		
+		
+		
+		<svg:linearGradient
+   y2="126.626"
+   x2="92.3774"
+   y1="134.4023"
+   x1="99.4775"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_26_">
+			<svg:stop
+   id="stop533"
+   style="stop-color:#5E91C3"
+   offset="0" />
+			<svg:stop
+   id="stop535"
+   style="stop-color:#5B8CC0"
+   offset="0.1392" />
+			<svg:stop
+   id="stop537"
+   style="stop-color:#537CB8"
+   offset="0.3125" />
+			<svg:stop
+   id="stop539"
+   style="stop-color:#4663AB"
+   offset="0.504" />
+			<svg:stop
+   id="stop541"
+   style="stop-color:#334099"
+   offset="0.7084" />
+			<svg:stop
+   id="stop543"
+   style="stop-color:#1C1382"
+   offset="0.9211" />
+			<svg:stop
+   id="stop545"
+   style="stop-color:#120078"
+   offset="1" />
+			<midPointStop
+   style="stop-color:#5E91C3"
+   offset="0" />
+			<midPointStop
+   style="stop-color:#5E91C3"
+   offset="0.661" />
+			<midPointStop
+   style="stop-color:#120078"
+   offset="1" />
+		</svg:linearGradient>
+		
+		<svg:linearGradient
+   y2="134.5792"
+   x2="84.3652"
+   y1="134.7451"
+   x1="96.1436"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_27_">
+			<svg:stop
+   id="stop550"
+   style="stop-color:#5760AA"
+   offset="0" />
+			<svg:stop
+   id="stop552"
+   style="stop-color:#535BA7"
+   offset="0.178" />
+			<svg:stop
+   id="stop554"
+   style="stop-color:#484B9F"
+   offset="0.3996" />
+			<svg:stop
+   id="stop556"
+   style="stop-color:#363292"
+   offset="0.6443" />
+			<svg:stop
+   id="stop558"
+   style="stop-color:#1D0F80"
+   offset="0.9039" />
+			<svg:stop
+   id="stop560"
+   style="stop-color:#120078"
+   offset="1" />
+			<midPointStop
+   style="stop-color:#5760AA"
+   offset="0" />
+			<midPointStop
+   style="stop-color:#5760AA"
+   offset="0.661" />
+			<midPointStop
+   style="stop-color:#120078"
+   offset="1" />
+		</svg:linearGradient>
+		
+	<svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_27_"
+   id="linearGradient3026"
+   gradientUnits="userSpaceOnUse"
+   x1="96.1436"
+   y1="134.7451"
+   x2="84.3652"
+   y2="134.5792" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_26_"
+   id="linearGradient3029"
+   gradientUnits="userSpaceOnUse"
+   x1="99.4775"
+   y1="134.4023"
+   x2="92.3774"
+   y2="126.626" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_25_"
+   id="linearGradient3034"
+   gradientUnits="userSpaceOnUse"
+   x1="22.6445"
+   y1="105.7451"
+   x2="10.8662"
+   y2="105.5792" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_24_"
+   id="linearGradient3037"
+   gradientUnits="userSpaceOnUse"
+   x1="25.978"
+   y1="105.4023"
+   x2="18.8778"
+   y2="97.626" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_23_"
+   id="linearGradient3041"
+   gradientUnits="userSpaceOnUse"
+   x1="56.6445"
+   y1="85.2446"
+   x2="44.8662"
+   y2="85.0787" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_22_"
+   id="linearGradient3044"
+   gradientUnits="userSpaceOnUse"
+   x1="59.978"
+   y1="84.9023"
+   x2="52.8778"
+   y2="77.126" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_21_"
+   id="linearGradient3049"
+   gradientUnits="userSpaceOnUse"
+   x1="149.1445"
+   y1="86.6113"
+   x2="170.7539"
+   y2="86.6113" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_20_"
+   id="linearGradient3053"
+   gradientUnits="userSpaceOnUse"
+   x1="134.1572"
+   y1="82.3813"
+   x2="170.7539"
+   y2="82.3813" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_19_"
+   id="linearGradient3056"
+   gradientUnits="userSpaceOnUse"
+   x1="139.4961"
+   y1="143.7295"
+   x2="153.627"
+   y2="154.458" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_18_"
+   id="linearGradient3059"
+   gradientUnits="userSpaceOnUse"
+   x1="138.7109"
+   y1="113.1431"
+   x2="152.8409"
+   y2="123.8708" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_17_"
+   id="linearGradient3062"
+   gradientUnits="userSpaceOnUse"
+   x1="131.3867"
+   y1="134.5811"
+   x2="187.3316"
+   y2="163.0047" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_16_"
+   id="linearGradient3066"
+   gradientUnits="userSpaceOnUse"
+   x1="124.1436"
+   y1="95.7451"
+   x2="112.3652"
+   y2="95.5792" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_15_"
+   id="linearGradient3069"
+   gradientUnits="userSpaceOnUse"
+   x1="127.4775"
+   y1="95.4019"
+   x2="120.3774"
+   y2="87.6255" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_1_"
+   id="linearGradient3258"
+   gradientUnits="userSpaceOnUse"
+   x1="5.313"
+   y1="96.1255"
+   x2="154.0723"
+   y2="96.1255" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_7_"
+   id="linearGradient3263"
+   gradientUnits="userSpaceOnUse"
+   x1="76.408699"
+   y1="56.327099"
+   x2="106.3584"
+   y2="104.0176" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_8_"
+   id="linearGradient3265"
+   gradientUnits="userSpaceOnUse"
+   x1="75.9692"
+   y1="62.876999"
+   x2="107.7969"
+   y2="62.876999" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_9_"
+   id="linearGradient3267"
+   gradientUnits="userSpaceOnUse"
+   x1="75.9692"
+   y1="62.0425"
+   x2="109.8574"
+   y2="62.0425" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_10_"
+   id="linearGradient3269"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(1,0.7889,0,1,465.1152,261.1375)"
+   x1="-383.47711"
+   y1="97.944298"
+   x2="-362.06641"
+   y2="127.327" />
+			
+			<svg:linearGradient
+   id="XMLID_7_"
+   gradientUnits="userSpaceOnUse"
+   x1="76.408699"
+   y1="56.327099"
+   x2="106.3584"
+   y2="104.0176">
+				<svg:stop
+   offset="0"
+   style="stop-color:#999999"
+   id="stop74" />
+				<svg:stop
+   offset="0.1799"
+   style="stop-color:#8B8B8B"
+   id="stop76" />
+				<svg:stop
+   offset="0.5205"
+   style="stop-color:#666666"
+   id="stop78" />
+				<svg:stop
+   offset="0.9827"
+   style="stop-color:#2A2A2A"
+   id="stop80" />
+				<svg:stop
+   offset="1"
+   style="stop-color:#282828"
+   id="stop82" />
+				<midPointStop
+   offset="0"
+   style="stop-color:#999999" />
+				<midPointStop
+   offset="0.565"
+   style="stop-color:#999999" />
+				<midPointStop
+   offset="1"
+   style="stop-color:#282828" />
+			</svg:linearGradient>
+			
+			
+			<svg:linearGradient
+   id="XMLID_8_"
+   gradientUnits="userSpaceOnUse"
+   x1="75.9692"
+   y1="62.876999"
+   x2="107.7969"
+   y2="62.876999">
+				<svg:stop
+   offset="0.0056"
+   style="stop-color:#BFBFBF"
+   id="stop89" />
+				<svg:stop
+   offset="1"
+   style="stop-color:#878686"
+   id="stop91" />
+				<midPointStop
+   offset="0.0056"
+   style="stop-color:#BFBFBF" />
+				<midPointStop
+   offset="0.5"
+   style="stop-color:#BFBFBF" />
+				<midPointStop
+   offset="1"
+   style="stop-color:#878686" />
+			</svg:linearGradient>
+			
+			
+			<svg:linearGradient
+   id="XMLID_9_"
+   gradientUnits="userSpaceOnUse"
+   x1="75.9692"
+   y1="62.0425"
+   x2="109.8574"
+   y2="62.0425">
+				<svg:stop
+   offset="0.0056"
+   style="stop-color:#818180"
+   id="stop98" />
+				<svg:stop
+   offset="1"
+   style="stop-color:#4F4E4E"
+   id="stop100" />
+				<midPointStop
+   offset="0.0056"
+   style="stop-color:#818180" />
+				<midPointStop
+   offset="0.5"
+   style="stop-color:#818180" />
+				<midPointStop
+   offset="1"
+   style="stop-color:#4F4E4E" />
+			</svg:linearGradient>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+				<svg:linearGradient
+   id="XMLID_10_"
+   gradientUnits="userSpaceOnUse"
+   x1="-383.47711"
+   y1="97.944298"
+   x2="-362.06641"
+   y2="127.327"
+   gradientTransform="matrix(1,0.7889,0,1,465.1152,261.1375)">
+				<svg:stop
+   offset="0"
+   style="stop-color:#FFFFFF"
+   id="stop219" />
+				<svg:stop
+   offset="1"
+   style="stop-color:#B0B0B0"
+   id="stop221" />
+				<midPointStop
+   offset="0"
+   style="stop-color:#FFFFFF" />
+				<midPointStop
+   offset="0.5"
+   style="stop-color:#FFFFFF" />
+				<midPointStop
+   offset="1"
+   style="stop-color:#B0B0B0" />
+			</svg:linearGradient>
+			
+		<svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_10_"
+   id="linearGradient3287"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(1,0.7889,0,1,465.1152,261.1375)"
+   x1="-383.47711"
+   y1="97.944298"
+   x2="-362.06641"
+   y2="127.327" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_9_"
+   id="linearGradient3347"
+   gradientUnits="userSpaceOnUse"
+   x1="75.9692"
+   y1="62.0425"
+   x2="109.8574"
+   y2="62.0425" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_8_"
+   id="linearGradient3351"
+   gradientUnits="userSpaceOnUse"
+   x1="75.9692"
+   y1="62.876999"
+   x2="107.7969"
+   y2="62.876999" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_7_"
+   id="linearGradient3355"
+   gradientUnits="userSpaceOnUse"
+   x1="76.408699"
+   y1="56.327099"
+   x2="106.3584"
+   y2="104.0176" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_11_"
+   id="linearGradient3358"
+   gradientUnits="userSpaceOnUse"
+   x1="10.8047"
+   y1="55.5942"
+   x2="40.753899"
+   y2="103.2839" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_12_"
+   id="linearGradient3360"
+   gradientUnits="userSpaceOnUse"
+   x1="10.3652"
+   y1="62.1436"
+   x2="42.193401"
+   y2="62.1436" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_13_"
+   id="linearGradient3362"
+   gradientUnits="userSpaceOnUse"
+   x1="10.3652"
+   y1="61.309101"
+   x2="44.253899"
+   y2="61.309101" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_14_"
+   id="linearGradient3364"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(1,0.7889,0,1,465.1152,261.1375)"
+   x1="-449.0806"
+   y1="148.9648"
+   x2="-427.66989"
+   y2="178.3475" />
+			
+			<svg:linearGradient
+   id="XMLID_11_"
+   gradientUnits="userSpaceOnUse"
+   x1="10.8047"
+   y1="55.5942"
+   x2="40.753899"
+   y2="103.2839">
+				<svg:stop
+   offset="0"
+   style="stop-color:#999999"
+   id="stop230" />
+				<svg:stop
+   offset="0.1799"
+   style="stop-color:#8B8B8B"
+   id="stop232" />
+				<svg:stop
+   offset="0.5205"
+   style="stop-color:#666666"
+   id="stop234" />
+				<svg:stop
+   offset="0.9827"
+   style="stop-color:#2A2A2A"
+   id="stop236" />
+				<svg:stop
+   offset="1"
+   style="stop-color:#282828"
+   id="stop238" />
+				<midPointStop
+   offset="0"
+   style="stop-color:#999999" />
+				<midPointStop
+   offset="0.565"
+   style="stop-color:#999999" />
+				<midPointStop
+   offset="1"
+   style="stop-color:#282828" />
+			</svg:linearGradient>
+			
+			
+			<svg:linearGradient
+   id="XMLID_12_"
+   gradientUnits="userSpaceOnUse"
+   x1="10.3652"
+   y1="62.1436"
+   x2="42.193401"
+   y2="62.1436">
+				<svg:stop
+   offset="0.0056"
+   style="stop-color:#BFBFBF"
+   id="stop245" />
+				<svg:stop
+   offset="1"
+   style="stop-color:#878686"
+   id="stop247" />
+				<midPointStop
+   offset="0.0056"
+   style="stop-color:#BFBFBF" />
+				<midPointStop
+   offset="0.5"
+   style="stop-color:#BFBFBF" />
+				<midPointStop
+   offset="1"
+   style="stop-color:#878686" />
+			</svg:linearGradient>
+			
+			
+			<svg:linearGradient
+   id="XMLID_13_"
+   gradientUnits="userSpaceOnUse"
+   x1="10.3652"
+   y1="61.309101"
+   x2="44.253899"
+   y2="61.309101">
+				<svg:stop
+   offset="0.0056"
+   style="stop-color:#818180"
+   id="stop254" />
+				<svg:stop
+   offset="1"
+   style="stop-color:#4F4E4E"
+   id="stop256" />
+				<midPointStop
+   offset="0.0056"
+   style="stop-color:#818180" />
+				<midPointStop
+   offset="0.5"
+   style="stop-color:#818180" />
+				<midPointStop
+   offset="1"
+   style="stop-color:#4F4E4E" />
+			</svg:linearGradient>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+				<svg:linearGradient
+   id="XMLID_14_"
+   gradientUnits="userSpaceOnUse"
+   x1="-449.0806"
+   y1="148.9648"
+   x2="-427.66989"
+   y2="178.3475"
+   gradientTransform="matrix(1,0.7889,0,1,465.1152,261.1375)">
+				<svg:stop
+   offset="0"
+   style="stop-color:#FFFFFF"
+   id="stop375" />
+				<svg:stop
+   offset="1"
+   style="stop-color:#B0B0B0"
+   id="stop377" />
+				<midPointStop
+   offset="0"
+   style="stop-color:#FFFFFF" />
+				<midPointStop
+   offset="0.5"
+   style="stop-color:#FFFFFF" />
+				<midPointStop
+   offset="1"
+   style="stop-color:#B0B0B0" />
+			</svg:linearGradient>
+			
+		<svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_14_"
+   id="linearGradient3382"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(1,0.7889,0,1,465.1152,261.1375)"
+   x1="-449.0806"
+   y1="148.9648"
+   x2="-427.66989"
+   y2="178.3475" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_13_"
+   id="linearGradient3442"
+   gradientUnits="userSpaceOnUse"
+   x1="10.3652"
+   y1="61.309101"
+   x2="44.253899"
+   y2="61.309101" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_12_"
+   id="linearGradient3446"
+   gradientUnits="userSpaceOnUse"
+   x1="10.3652"
+   y1="62.1436"
+   x2="42.193401"
+   y2="62.1436" /><svg:linearGradient
+   inkscape:collect="always"
+   xlink:href="#XMLID_11_"
+   id="linearGradient3450"
+   gradientUnits="userSpaceOnUse"
+   x1="10.8047"
+   y1="55.5942"
+   x2="40.753899"
+   y2="103.2839" /></svg:defs><sodipodi:namedview
+   inkscape:window-height="682"
+   inkscape:window-width="640"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   guidetolerance="10.0"
+   gridtolerance="10.0"
+   objecttolerance="10.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base"
+   showgrid="false"
+   inkscape:zoom="2.1497306"
+   inkscape:cx="103.1198"
+   inkscape:cy="107.9205"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:current-layer="svg2" />
+	<svg:path
+   style="opacity:0.2;stroke:none"
+   id="path5"
+   d="M 139.965,215.841 L 157.334,215.841 L 167.666,209.675 L 179.334,209.675 L 200.333,194.675 L 160.666,177.009 L 139.965,215.841 z" /><svg:path
+   style="opacity:0.2;stroke:none"
+   id="path7"
+   d="M 100.944,183.581 L 109.334,179.009 L 130.666,189.342 L 130,178.342 L 100.944,164.732 L 100.944,183.581 L 100.944,183.581 z" /><svg:path
+   style="stroke:none"
+   id="path9"
+   d="M 159.386,192.721 L 100.945,164.732 L 100.945,183.582 L 21.252,145.413 L 21.252,126.094 L 0,115.915 L 0,0 L 159.386,76.336 L 159.386,192.721 z" /><svg:path
+   style="fill:url(#linearGradient3258);stroke:none"
+   id="path20"
+   d="M 154.072,183.267 L 95.631,155.278 L 95.631,174.597 L 26.564,141.518 L 26.564,122.198 L 5.313,112.021 L 5.313,8.984 L 154.072,80.23 L 154.072,183.267 z" /><svg:g
+   style="stroke:#000000"
+   id="g22">
+			<svg:linearGradient
+   y2="99.501999"
+   x2="154.0723"
+   y1="99.501999"
+   x1="15.9385"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_2_">
+				<svg:stop
+   id="stop25"
+   style="stop-color:#E9E721"
+   offset="0" />
+				<svg:stop
+   id="stop27"
+   style="stop-color:#E4D91B"
+   offset="0.8976" />
+				<svg:stop
+   id="stop29"
+   style="stop-color:#E3D71A"
+   offset="1" />
+				<midPointStop
+   style="stop-color:#E9E721"
+   offset="0" />
+				<midPointStop
+   style="stop-color:#E9E721"
+   offset="0.565" />
+				<midPointStop
+   style="stop-color:#E3D71A"
+   offset="1" />
+			</svg:linearGradient>
+			<svg:path
+   style="fill:url(#XMLID_2_);stroke:none"
+   id="path31"
+   d="M 90.318,172.052 L 90.318,139.854 L 154.072,170.387 L 154.072,163.948 L 69.067,123.235 L 69.067,110.356 L 31.877,92.545 L 31.877,73.225 L 63.754,88.493 L 63.754,49.854 L 15.938,26.952 L 15.938,52.711 L 21.251,55.256 L 21.251,35.937 L 58.441,53.749 L 58.441,79.509 L 26.564,64.24 L 26.564,96.438 L 63.754,114.251 L 63.754,159.329 L 69.067,161.873 L 69.067,129.674 L 85.005,137.307 L 85.005,169.506 L 90.318,172.052 z" />
+			<svg:linearGradient
+   y2="156.0303"
+   x2="79.693398"
+   y1="156.0303"
+   x1="74.379898"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_3_">
+				<svg:stop
+   id="stop34"
+   style="stop-color:#E9E721"
+   offset="0" />
+				<svg:stop
+   id="stop36"
+   style="stop-color:#E4D91B"
+   offset="0.8976" />
+				<svg:stop
+   id="stop38"
+   style="stop-color:#E3D71A"
+   offset="1" />
+				<midPointStop
+   style="stop-color:#E9E721"
+   offset="0" />
+				<midPointStop
+   style="stop-color:#E9E721"
+   offset="0.565" />
+				<midPointStop
+   style="stop-color:#E3D71A"
+   offset="1" />
+			</svg:linearGradient>
+			<svg:path
+   style="fill:url(#XMLID_3_);stroke:none"
+   id="path40"
+   d="M 74.38,145.099 L 74.38,164.418 L 79.693,166.962 L 79.693,147.643 L 74.38,145.099 z" />
+			<svg:linearGradient
+   y2="111.9111"
+   x2="154.0723"
+   y1="111.9111"
+   x1="79.693398"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_4_">
+				<svg:stop
+   id="stop43"
+   style="stop-color:#E9E721"
+   offset="0" />
+				<svg:stop
+   id="stop45"
+   style="stop-color:#E4D91B"
+   offset="0.8976" />
+				<svg:stop
+   id="stop47"
+   style="stop-color:#E3D71A"
+   offset="1" />
+				<midPointStop
+   style="stop-color:#E9E721"
+   offset="0" />
+				<midPointStop
+   style="stop-color:#E9E721"
+   offset="0.565" />
+				<midPointStop
+   style="stop-color:#E3D71A"
+   offset="1" />
+			</svg:linearGradient>
+			<svg:path
+   style="fill:url(#XMLID_4_);stroke:none"
+   id="path49"
+   d="M 154.072,151.068 L 111.57,130.712 L 111.57,143.592 L 106.257,141.047 L 106.257,128.167 L 79.693,115.443 L 79.693,83.245 L 111.57,98.514 L 111.57,72.754 L 116.883,75.298 L 116.883,113.937 L 127.508,119.026 L 127.508,93.267 L 148.76,103.445 L 148.76,109.884 L 132.822,102.251 L 132.822,128.01 L 127.509,125.465 L 127.509,131.905 L 122.196,129.361 L 122.196,122.921 L 111.571,117.832 L 111.571,104.953 L 85.006,92.229 L 85.006,111.548 L 154.072,144.628 L 154.072,151.068 z" />
+			<svg:linearGradient
+   y2="120.8467"
+   x2="58.441399"
+   y1="120.8467"
+   x1="15.9385"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_5_">
+				<svg:stop
+   id="stop52"
+   style="stop-color:#E9E721"
+   offset="0" />
+				<svg:stop
+   id="stop54"
+   style="stop-color:#E4D91B"
+   offset="0.8976" />
+				<svg:stop
+   id="stop56"
+   style="stop-color:#E3D71A"
+   offset="1" />
+				<midPointStop
+   style="stop-color:#E9E721"
+   offset="0" />
+				<midPointStop
+   style="stop-color:#E9E721"
+   offset="0.565" />
+				<midPointStop
+   style="stop-color:#E3D71A"
+   offset="1" />
+			</svg:linearGradient>
+			<svg:path
+   style="fill:url(#XMLID_5_);stroke:none"
+   id="path58"
+   d="M 58.441,156.784 L 58.441,124.586 L 21.251,106.773 L 21.251,87.454 L 15.938,84.909 L 15.938,110.669 L 31.877,118.304 L 31.877,144.063 L 37.19,146.607 L 37.19,120.848 L 53.128,128.482 L 53.128,154.241 L 58.441,156.784 z" />
+			<svg:linearGradient
+   y2="140.7637"
+   x2="47.815399"
+   y1="140.7637"
+   x1="42.502899"
+   gradientUnits="userSpaceOnUse"
+   id="XMLID_6_">
+				<svg:stop
+   id="stop61"
+   style="stop-color:#E9E721"
+   offset="0" />
+				<svg:stop
+   id="stop63"
+   style="stop-color:#E4D91B"
+   offset="0.8976" />
+				<svg:stop
+   id="stop65"
+   style="stop-color:#E3D71A"
+   offset="1" />
+				<midPointStop
+   style="stop-color:#E9E721"
+   offset="0" />
+				<midPointStop
+   style="stop-color:#E9E721"
+   offset="0.565" />
+				<midPointStop
+   style="stop-color:#E3D71A"
+   offset="1" />
+			</svg:linearGradient>
+			<svg:path
+   style="fill:url(#XMLID_6_);stroke:none"
+   id="path67"
+   d="M 47.815,132.376 L 47.815,151.695 L 42.502,149.151 L 42.502,129.832 L 47.815,132.376 z" />
+		</svg:g><svg:path
+   d="M 114.115,101.509 L 79.227,85.628 L 79.227,51.023 L 114.116,66.903 L 114.116,101.509 L 114.115,101.509 z"
+   id="path71"
+   style="opacity:0.2;stroke:none" /><svg:path
+   d="M 106.963,104.723 L 75.969,89.696 L 75.969,55.886 L 106.963,70.912 L 106.963,104.723 z"
+   id="path84"
+   style="fill:url(#linearGradient3355);stroke:none" /><svg:path
+   d="M 107.693,70.077 L 106.754,70.912 L 106.754,104.723 L 107.692,104.776 L 107.693,70.077 z"
+   id="path86"
+   style="fill:#6b6b6b;stroke:none" /><svg:path
+   d="M 107.797,70.182 L 75.969,54.842 L 75.969,55.886 L 106.963,70.912 L 107.797,70.182 z"
+   id="path93"
+   style="fill:url(#linearGradient3351);stroke:none" /><svg:path
+   d="M 109.805,103.418 L 107.692,104.775 L 107.692,70.13 L 109.805,68.774 L 109.805,103.418 z"
+   id="path95"
+   style="fill:#414141;stroke:none" /><svg:path
+   d="M 75.969,54.843 L 107.691,70.13 L 109.857,68.721 L 78.317,53.955 L 75.969,54.843 z"
+   id="path102"
+   style="fill:url(#linearGradient3347);stroke:none" /><svg:g
+   style="stroke:#000000"
+   id="g104">
+				<svg:path
+   d="M 80.711,56.308 L 79.027,55.422 L 79.08,54.411 L 80.764,55.297 L 80.711,56.308 z"
+   id="path106"
+   style="fill:#fbfbfb;stroke:none" />
+				<svg:path
+   d="M 79.088,54.453 L 80.76,55.325 L 82.492,54.554 L 80.846,53.798 L 79.088,54.453 z"
+   id="path108"
+   style="fill:#f0f0f0;stroke:none" />
+				<svg:path
+   d="M 80.74,55.306 L 82.472,54.535 L 82.472,55.5 L 80.671,56.308 L 80.74,55.306 z"
+   id="path110"
+   style="fill:#d6d6d6;stroke:none" />
+			</svg:g><svg:g
+   style="stroke:#000000"
+   id="g112">
+				<svg:path
+   d="M 84.234,57.951 L 82.55,57.064 L 82.601,56.054 L 84.285,56.94 L 84.234,57.951 z"
+   id="path114"
+   style="fill:#fbfbfb;stroke:none" />
+				<svg:path
+   d="M 82.609,56.097 L 84.283,56.969 L 86.013,56.198 L 84.367,55.442 L 82.609,56.097 z"
+   id="path116"
+   style="fill:#f0f0f0;stroke:none" />
+				<svg:path
+   d="M 84.264,56.949 L 85.994,56.178 L 85.994,57.143 L 84.193,57.951 L 84.264,56.949 z"
+   id="path118"
+   style="fill:#d6d6d6;stroke:none" />
+			</svg:g><svg:g
+   style="stroke:#000000"
+   id="g120">
+				<svg:path
+   d="M 87.834,59.672 L 86.15,58.787 L 86.201,57.776 L 87.887,58.662 L 87.834,59.672 z"
+   id="path122"
+   style="fill:#fbfbfb;stroke:none" />
+				<svg:path
+   d="M 86.209,57.819 L 87.883,58.69 L 89.613,57.919 L 87.967,57.163 L 86.209,57.819 z"
+   id="path124"
+   style="fill:#f0f0f0;stroke:none" />
+				<svg:path
+   d="M 87.863,58.671 L 89.593,57.9 L 89.593,58.866 L 87.794,59.672 L 87.863,58.671 z"
+   id="path126"
+   style="fill:#d6d6d6;stroke:none" />
+			</svg:g><svg:g
+   style="stroke:#000000"
+   id="g128">
+				<svg:path
+   d="M 91.59,61.394 L 89.906,60.509 L 89.959,59.498 L 91.643,60.384 L 91.59,61.394 z"
+   id="path130"
+   style="fill:#fbfbfb;stroke:none" />
+				<svg:path
+   d="M 89.965,59.541 L 91.639,60.412 L 93.371,59.641 L 91.725,58.885 L 89.965,59.541 z"
+   id="path132"
+   style="fill:#f0f0f0;stroke:none" />
+				<svg:path
+   d="M 91.619,60.393 L 93.351,59.622 L 93.351,60.588 L 91.55,61.394 L 91.619,60.393 z"
+   id="path134"
+   style="fill:#d6d6d6;stroke:none" />
+			</svg:g><svg:g
+   style="stroke:#000000"
+   id="g136">
+				<svg:path
+   d="M 95.129,63.025 L 93.445,62.139 L 93.498,61.128 L 95.18,62.014 L 95.129,63.025 z"
+   id="path138"
+   style="fill:#fbfbfb;stroke:none" />
+				<svg:path
+   d="M 93.504,61.171 L 95.178,62.043 L 96.91,61.272 L 95.262,60.516 L 93.504,61.171 z"
+   id="path140"
+   style="fill:#f0f0f0;stroke:none" />
+				<svg:path
+   d="M 95.158,62.023 L 96.89,61.252 L 96.89,62.218 L 95.089,63.025 L 95.158,62.023 z"
+   id="path142"
+   style="fill:#d6d6d6;stroke:none" />
+			</svg:g><svg:g
+   style="stroke:#000000"
+   id="g144">
+				<svg:path
+   d="M 106.398,68.425 L 104.714,67.54 L 104.767,66.528 L 106.451,67.415 L 106.398,68.425 z"
+   id="path146"
+   style="fill:#fbfbfb;stroke:none" />
+				<svg:path
+   d="M 104.775,66.572 L 106.447,67.443 L 108.179,66.672 L 106.531,65.916 L 104.775,66.572 z"
+   id="path148"
+   style="fill:#f0f0f0;stroke:none" />
+				<svg:path
+   d="M 106.428,67.424 L 108.16,66.653 L 108.16,67.619 L 106.359,68.425 L 106.428,67.424 z"
+   id="path150"
+   style="fill:#d6d6d6;stroke:none" />
+			</svg:g><svg:g
+   style="stroke:#000000"
+   id="g152">
+				<svg:path
+   d="M 102.703,66.56 L 101.021,65.674 L 101.072,64.663 L 102.756,65.55 L 102.703,66.56 z"
+   id="path154"
+   style="fill:#fbfbfb;stroke:none" />
+				<svg:path
+   d="M 101.08,64.706 L 102.752,65.577 L 104.484,64.807 L 102.838,64.051 L 101.08,64.706 z"
+   id="path156"
+   style="fill:#f0f0f0;stroke:none" />
+				<svg:path
+   d="M 102.732,65.559 L 104.464,64.788 L 104.464,65.754 L 102.663,66.561 L 102.732,65.559 z"
+   id="path158"
+   style="fill:#d6d6d6;stroke:none" />
+			</svg:g><svg:g
+   style="stroke:#000000"
+   id="g160">
+				<svg:path
+   d="M 98.791,64.76 L 97.107,63.874 L 97.158,62.863 L 98.842,63.749 L 98.791,64.76 z"
+   id="path162"
+   style="fill:#fbfbfb;stroke:none" />
+				<svg:path
+   d="M 97.166,62.906 L 98.84,63.778 L 100.57,63.007 L 98.924,62.252 L 97.166,62.906 z"
+   id="path164"
+   style="fill:#f0f0f0;stroke:none" />
+				<svg:path
+   d="M 98.82,63.758 L 100.55,62.987 L 100.55,63.953 L 98.751,64.76 L 98.82,63.758 z"
+   id="path166"
+   style="fill:#d6d6d6;stroke:none" />
+			</svg:g><svg:g
+   style="stroke:#000000"
+   id="g168">
+				<svg:path
+   d="M 109.24,102.17 L 108.494,101.754 L 108.547,99.452 L 109.193,99.91 L 109.24,102.17 z"
+   id="path170"
+   style="fill:#eeeeee;stroke:none" />
+				<svg:path
+   d="M 108.516,99.456 L 109.194,99.91 L 111.059,99.127 L 110.274,98.801 L 108.516,99.456 z"
+   id="path172"
+   style="fill:#d6d6d6;stroke:none" />
+				<svg:path
+   d="M 109.193,99.91 L 111.058,99.127 L 111.019,101.305 L 109.218,102.112 L 109.193,99.91 z"
+   id="path174"
+   style="fill:#bbbbba;stroke:none" />
+			</svg:g><svg:path
+   d="M 109.199,98.257 L 108.455,97.841 L 108.508,95.539 L 109.252,95.955 L 109.199,98.257 z"
+   id="path176"
+   style="fill:#eeeeee;stroke:none" /><svg:path
+   d="M 108.477,95.542 L 109.288,95.983 L 111.02,95.212 L 110.235,94.887 L 108.477,95.542 z"
+   id="path178"
+   style="fill:#d6d6d6;stroke:none" /><svg:path
+   d="M 109.287,95.983 L 111.019,95.212 L 110.98,97.391 L 109.179,98.198 L 109.287,95.983 z"
+   id="path180"
+   style="fill:#bbbbba;stroke:none" /><svg:path
+   d="M 109.305,93.979 L 108.561,93.564 L 108.612,91.261 L 109.356,91.678 L 109.305,93.979 z"
+   id="path182"
+   style="fill:#eeeeee;stroke:none" /><svg:path
+   d="M 108.58,91.265 L 109.393,91.705 L 111.123,90.934 L 110.338,90.609 L 108.58,91.265 z"
+   id="path184"
+   style="fill:#d6d6d6;stroke:none" /><svg:path
+   d="M 109.393,91.705 L 111.123,90.934 L 111.084,93.113 L 109.285,93.92 L 109.393,91.705 z"
+   id="path186"
+   style="fill:#bbbbba;stroke:none" /><svg:path
+   d="M 109.408,90.431 L 108.664,90.015 L 108.717,87.712 L 109.461,88.129 L 109.408,90.431 z"
+   id="path188"
+   style="fill:#eeeeee;stroke:none" /><svg:path
+   d="M 108.686,87.717 L 109.497,88.157 L 111.229,87.386 L 110.442,87.061 L 108.686,87.717 z"
+   id="path190"
+   style="fill:#d6d6d6;stroke:none" /><svg:path
+   d="M 109.496,88.157 L 111.228,87.386 L 111.189,89.565 L 109.388,90.372 L 109.496,88.157 z"
+   id="path192"
+   style="fill:#bbbbba;stroke:none" /><svg:path
+   d="M 109.199,74.359 L 108.455,73.944 L 108.508,71.641 L 109.252,72.058 L 109.199,74.359 z"
+   id="path194"
+   style="fill:#eeeeee;stroke:none" /><svg:path
+   d="M 108.477,71.646 L 109.288,72.087 L 111.02,71.316 L 110.235,70.99 L 108.477,71.646 z"
+   id="path196"
+   style="fill:#d6d6d6;stroke:none" /><svg:path
+   d="M 109.287,72.087 L 111.019,71.316 L 110.98,73.494 L 109.179,74.302 L 109.287,72.087 z"
+   id="path198"
+   style="fill:#bbbbba;stroke:none" /><svg:path
+   d="M 109.512,78.534 L 108.77,78.118 L 108.821,75.816 L 109.565,76.232 L 109.512,78.534 z"
+   id="path200"
+   style="fill:#eeeeee;stroke:none" /><svg:path
+   d="M 108.789,75.82 L 109.602,76.26 L 111.332,75.489 L 110.547,75.164 L 108.789,75.82 z"
+   id="path202"
+   style="fill:#d6d6d6;stroke:none" /><svg:path
+   d="M 109.602,76.261 L 111.332,75.49 L 111.293,77.669 L 109.494,78.476 L 109.602,76.261 z"
+   id="path204"
+   style="fill:#bbbbba;stroke:none" /><svg:path
+   d="M 109.408,82.5 L 108.664,82.084 L 108.717,79.782 L 109.459,80.198 L 109.408,82.5 z"
+   id="path206"
+   style="fill:#eeeeee;stroke:none" /><svg:path
+   d="M 108.684,79.786 L 109.497,80.226 L 111.229,79.455 L 110.442,79.13 L 108.684,79.786 z"
+   id="path208"
+   style="fill:#d6d6d6;stroke:none" /><svg:path
+   d="M 109.496,80.227 L 111.228,79.456 L 111.189,81.635 L 109.388,82.441 L 109.496,80.227 z"
+   id="path210"
+   style="fill:#bbbbba;stroke:none" /><svg:path
+   d="M 109.305,86.36 L 108.561,85.944 L 108.612,83.642 L 109.356,84.058 L 109.305,86.36 z"
+   id="path212"
+   style="fill:#eeeeee;stroke:none" /><svg:path
+   d="M 108.58,83.646 L 109.393,84.086 L 111.123,83.316 L 110.338,82.991 L 108.58,83.646 z"
+   id="path214"
+   style="fill:#d6d6d6;stroke:none" /><svg:path
+   d="M 109.393,84.087 L 111.123,83.317 L 111.084,85.496 L 109.285,86.302 L 109.393,84.087 z"
+   id="path216"
+   style="fill:#bbbbba;stroke:none" /><svg:path
+   d="M 48.678,100.443 L 14.456,84.229 L 14.456,49.624 L 48.678,65.838 L 48.678,100.443 L 48.678,100.443 z"
+   id="path227"
+   style="opacity:0.2;stroke:none" /><svg:path
+   d="M 41.358,103.989 L 10.365,88.963 L 10.365,55.152 L 41.358,70.178 L 41.358,103.989 L 41.358,103.989 z"
+   id="path240"
+   style="fill:url(#linearGradient3450);stroke:none" /><svg:path
+   d="M 42.09,69.344 L 41.151,70.179 L 41.151,103.99 L 42.089,104.043 L 42.09,69.344 z"
+   id="path242"
+   style="fill:#6b6b6b;stroke:none" /><svg:path
+   d="M 42.193,69.448 L 10.365,54.108 L 10.365,55.152 L 41.359,70.178 L 42.193,69.448 z"
+   id="path249"
+   style="fill:url(#linearGradient3446);stroke:none" /><svg:path
+   d="M 44.201,102.685 L 42.088,104.042 L 42.088,69.396 L 44.201,68.04 L 44.201,102.685 z"
+   id="path251"
+   style="fill:#414141;stroke:none" /><svg:path
+   d="M 10.365,54.109 L 42.088,69.396 L 44.254,67.987 L 12.713,53.222 L 10.365,54.109 z"
+   id="path258"
+   style="fill:url(#linearGradient3442);stroke:none" /><svg:g
+   style="stroke:#000000"
+   id="g260">
+				<svg:path
+   d="M 15.107,55.574 L 13.423,54.688 L 13.476,53.677 L 15.159,54.563 L 15.107,55.574 z"
+   id="path262"
+   style="fill:#fbfbfb;stroke:none" />
+				<svg:path
+   d="M 13.483,53.72 L 15.156,54.592 L 16.888,53.821 L 15.241,53.065 L 13.483,53.72 z"
+   id="path264"
+   style="fill:#f0f0f0;stroke:none" />
+				<svg:path
+   d="M 15.137,54.572 L 16.868,53.801 L 16.868,54.766 L 15.067,55.574 L 15.137,54.572 z"
+   id="path266"
+   style="fill:#d6d6d6;stroke:none" />
+			</svg:g><svg:g
+   style="stroke:#000000"
+   id="g268">
+				<svg:path
+   d="M 18.63,57.218 L 16.946,56.331 L 16.998,55.321 L 18.681,56.207 L 18.63,57.218 z"
+   id="path270"
+   style="fill:#fbfbfb;stroke:none" />
+				<svg:path
+   d="M 17.005,55.363 L 18.679,56.235 L 20.41,55.464 L 18.763,54.708 L 17.005,55.363 z"
+   id="path272"
+   style="fill:#f0f0f0;stroke:none" />
+				<svg:path
+   d="M 18.659,56.216 L 20.39,55.445 L 20.39,56.41 L 18.589,57.218 L 18.659,56.216 z"
+   id="path274"
+   style="fill:#d6d6d6;stroke:none" />
+			</svg:g><svg:g
+   style="stroke:#000000"
+   id="g276">
+				<svg:path
+   d="M 22.229,58.938 L 20.545,58.053 L 20.597,57.042 L 22.282,57.928 L 22.229,58.938 z"
+   id="path278"
+   style="fill:#fbfbfb;stroke:none" />
+				<svg:path
+   d="M 20.605,57.086 L 22.278,57.957 L 24.009,57.186 L 22.363,56.43 L 20.605,57.086 z"
+   id="path280"
+   style="fill:#f0f0f0;stroke:none" />
+				<svg:path
+   d="M 22.259,57.938 L 23.99,57.167 L 23.99,58.133 L 22.19,58.939 L 22.259,57.938 z"
+   id="path282"
+   style="fill:#d6d6d6;stroke:none" />
+			</svg:g><svg:g
+   style="stroke:#000000"
+   id="g284">
+				<svg:path
+   d="M 25.986,60.66 L 24.302,59.775 L 24.354,58.764 L 26.038,59.65 L 25.986,60.66 z"
+   id="path286"
+   style="fill:#fbfbfb;stroke:none" />
+				<svg:path
+   d="M 24.361,58.808 L 26.035,59.679 L 27.766,58.908 L 26.12,58.152 L 24.361,58.808 z"
+   id="path288"
+   style="fill:#f0f0f0;stroke:none" />
+				<svg:path
+   d="M 26.016,59.659 L 27.747,58.888 L 27.747,59.854 L 25.947,60.66 L 26.016,59.659 z"
+   id="path290"
+   style="fill:#d6d6d6;stroke:none" />
+			</svg:g><svg:g
+   style="stroke:#000000"
+   id="g292">
+				<svg:path
+   d="M 29.525,62.292 L 27.84,61.406 L 27.893,60.395 L 29.576,61.281 L 29.525,62.292 z"
+   id="path294"
+   style="fill:#fbfbfb;stroke:none" />
+				<svg:path
+   d="M 27.9,60.438 L 29.573,61.31 L 31.305,60.539 L 29.658,59.783 L 27.9,60.438 z"
+   id="path296"
+   style="fill:#f0f0f0;stroke:none" />
+				<svg:path
+   d="M 29.554,61.29 L 31.286,60.519 L 31.286,61.485 L 29.485,62.292 L 29.554,61.29 z"
+   id="path298"
+   style="fill:#d6d6d6;stroke:none" />
+			</svg:g><svg:g
+   style="stroke:#000000"
+   id="g300">
+				<svg:path
+   d="M 40.795,67.691 L 39.111,66.806 L 39.163,65.794 L 40.847,66.681 L 40.795,67.691 z"
+   id="path302"
+   style="fill:#fbfbfb;stroke:none" />
+				<svg:path
+   d="M 39.171,65.839 L 40.844,66.71 L 42.575,65.939 L 40.928,65.183 L 39.171,65.839 z"
+   id="path304"
+   style="fill:#f0f0f0;stroke:none" />
+				<svg:path
+   d="M 40.824,66.69 L 42.555,65.919 L 42.555,66.885 L 40.754,67.691 L 40.824,66.69 z"
+   id="path306"
+   style="fill:#d6d6d6;stroke:none" />
+			</svg:g><svg:g
+   style="stroke:#000000"
+   id="g308">
+				<svg:path
+   d="M 37.1,65.826 L 35.417,64.94 L 35.468,63.929 L 37.152,64.816 L 37.1,65.826 z"
+   id="path310"
+   style="fill:#fbfbfb;stroke:none" />
+				<svg:path
+   d="M 35.476,63.973 L 37.149,64.844 L 38.88,64.074 L 37.234,63.318 L 35.476,63.973 z"
+   id="path312"
+   style="fill:#f0f0f0;stroke:none" />
+				<svg:path
+   d="M 37.129,64.825 L 38.86,64.054 L 38.86,65.02 L 37.06,65.827 L 37.129,64.825 z"
+   id="path314"
+   style="fill:#d6d6d6;stroke:none" />
+			</svg:g><svg:g
+   style="stroke:#000000"
+   id="g316">
+				<svg:path
+   d="M 33.187,64.026 L 31.504,63.14 L 31.555,62.129 L 33.239,63.015 L 33.187,64.026 z"
+   id="path318"
+   style="fill:#fbfbfb;stroke:none" />
+				<svg:path
+   d="M 31.563,62.173 L 33.236,63.045 L 34.967,62.274 L 33.321,61.519 L 31.563,62.173 z"
+   id="path320"
+   style="fill:#f0f0f0;stroke:none" />
+				<svg:path
+   d="M 33.216,63.024 L 34.947,62.253 L 34.947,63.219 L 33.147,64.026 L 33.216,63.024 z"
+   id="path322"
+   style="fill:#d6d6d6;stroke:none" />
+			</svg:g><svg:g
+   style="stroke:#000000"
+   id="g324">
+				<svg:path
+   d="M 43.636,101.437 L 42.891,101.021 L 42.944,98.719 L 43.59,99.177 L 43.636,101.437 z"
+   id="path326"
+   style="fill:#eeeeee;stroke:none" />
+				<svg:path
+   d="M 42.911,98.723 L 43.589,99.177 L 45.454,98.394 L 44.669,98.068 L 42.911,98.723 z"
+   id="path328"
+   style="fill:#d6d6d6;stroke:none" />
+				<svg:path
+   d="M 43.589,99.177 L 45.454,98.394 L 45.416,100.572 L 43.615,101.379 L 43.589,99.177 z"
+   id="path330"
+   style="fill:#bbbbba;stroke:none" />
+			</svg:g><svg:path
+   d="M 43.596,97.523 L 42.852,97.107 L 42.905,94.805 L 43.648,95.221 L 43.596,97.523 z"
+   id="path332"
+   style="fill:#eeeeee;stroke:none" /><svg:path
+   d="M 42.872,94.809 L 43.684,95.25 L 45.416,94.479 L 44.63,94.154 L 42.872,94.809 z"
+   id="path334"
+   style="fill:#d6d6d6;stroke:none" /><svg:path
+   d="M 43.684,95.25 L 45.416,94.479 L 45.377,96.658 L 43.575,97.465 L 43.684,95.25 z"
+   id="path336"
+   style="fill:#bbbbba;stroke:none" /><svg:path
+   d="M 43.7,93.245 L 42.956,92.83 L 43.008,90.527 L 43.752,90.944 L 43.7,93.245 z"
+   id="path338"
+   style="fill:#eeeeee;stroke:none" /><svg:path
+   d="M 42.977,90.531 L 43.789,90.971 L 45.52,90.2 L 44.735,89.875 L 42.977,90.531 z"
+   id="path340"
+   style="fill:#d6d6d6;stroke:none" /><svg:path
+   d="M 43.788,90.972 L 45.519,90.201 L 45.48,92.38 L 43.68,93.187 L 43.788,90.972 z"
+   id="path342"
+   style="fill:#bbbbba;stroke:none" /><svg:path
+   d="M 43.805,89.697 L 43.061,89.281 L 43.113,86.978 L 43.857,87.395 L 43.805,89.697 z"
+   id="path344"
+   style="fill:#eeeeee;stroke:none" /><svg:path
+   d="M 43.081,86.983 L 43.893,87.423 L 45.624,86.652 L 44.838,86.327 L 43.081,86.983 z"
+   id="path346"
+   style="fill:#d6d6d6;stroke:none" /><svg:path
+   d="M 43.893,87.424 L 45.624,86.653 L 45.585,88.832 L 43.785,89.639 L 43.893,87.424 z"
+   id="path348"
+   style="fill:#bbbbba;stroke:none" /><svg:path
+   d="M 43.596,73.626 L 42.852,73.211 L 42.905,70.908 L 43.648,71.325 L 43.596,73.626 z"
+   id="path350"
+   style="fill:#eeeeee;stroke:none" /><svg:path
+   d="M 42.872,70.912 L 43.684,71.353 L 45.416,70.582 L 44.63,70.256 L 42.872,70.912 z"
+   id="path352"
+   style="fill:#d6d6d6;stroke:none" /><svg:path
+   d="M 43.684,71.354 L 45.416,70.583 L 45.377,72.761 L 43.575,73.569 L 43.684,71.354 z"
+   id="path354"
+   style="fill:#bbbbba;stroke:none" /><svg:path
+   d="M 43.908,77.801 L 43.165,77.385 L 43.216,75.083 L 43.961,75.499 L 43.908,77.801 z"
+   id="path356"
+   style="fill:#eeeeee;stroke:none" /><svg:path
+   d="M 43.185,75.087 L 43.998,75.527 L 45.729,74.756 L 44.943,74.431 L 43.185,75.087 z"
+   id="path358"
+   style="fill:#d6d6d6;stroke:none" /><svg:path
+   d="M 43.997,75.527 L 45.728,74.756 L 45.688,76.935 L 43.889,77.742 L 43.997,75.527 z"
+   id="path360"
+   style="fill:#bbbbba;stroke:none" /><svg:path
+   d="M 43.805,81.767 L 43.061,81.351 L 43.113,79.049 L 43.856,79.465 L 43.805,81.767 z"
+   id="path362"
+   style="fill:#eeeeee;stroke:none" /><svg:path
+   d="M 43.08,79.053 L 43.892,79.493 L 45.624,78.722 L 44.838,78.397 L 43.08,79.053 z"
+   id="path364"
+   style="fill:#d6d6d6;stroke:none" /><svg:path
+   d="M 43.892,79.493 L 45.624,78.722 L 45.585,80.901 L 43.784,81.707 L 43.892,79.493 z"
+   id="path366"
+   style="fill:#bbbbba;stroke:none" /><svg:path
+   d="M 43.7,85.627 L 42.956,85.211 L 43.008,82.909 L 43.752,83.325 L 43.7,85.627 z"
+   id="path368"
+   style="fill:#eeeeee;stroke:none" /><svg:path
+   d="M 42.977,82.913 L 43.789,83.353 L 45.52,82.583 L 44.735,82.258 L 42.977,82.913 z"
+   id="path370"
+   style="fill:#d6d6d6;stroke:none" /><svg:path
+   d="M 43.788,83.354 L 45.519,82.584 L 45.48,84.763 L 43.68,85.569 L 43.788,83.354 z"
+   id="path372"
+   style="fill:#bbbbba;stroke:none" /><svg:path
+   style="fill:url(#linearGradient3069);stroke:none"
+   id="path396"
+   d="M 118.603,91.399 L 125.704,87.341 C 125.704,87.341 129.759,87.767 130.945,89.877 C 132.466,92.582 131.79,94.948 131.79,94.948 L 123.712,100.596 L 118.603,91.399 z" /><svg:path
+   style="fill:url(#linearGradient3066);stroke:none"
+   id="path411"
+   d="M 126.11,95.533 C 126.691,98.232 125.163,100.5 122.697,100.597 C 120.231,100.694 117.761,98.586 117.18,95.886 C 116.6,93.187 118.128,90.92 120.593,90.822 C 123.061,90.725 125.529,92.834 126.11,95.533 z" /><svg:path
+   style="stroke:none"
+   id="path413"
+   d="M 139.965,215.841 L 139.469,205.35 L 130.026,204.302 L 130.026,82.811 L 148.626,72.45 L 142.144,68.77 L 158.837,70.264 L 173.601,76.155 L 173.834,84.88 L 160.468,92.459 L 160.468,192.205 L 152.629,201.895 L 152.751,209.541 L 139.965,215.841 z" /><svg:path
+   style="fill:url(#linearGradient3062);stroke:none"
+   id="path424"
+   d="M 142.487,209.8 L 142.617,201.689 L 134.222,200.884 L 134.222,88.438 L 155.473,77.238 L 155.473,190.86 L 149.57,198.513 L 149.57,205.574 L 142.487,209.8 z" /><svg:path
+   style="fill:url(#linearGradient3059);stroke:#000000;stroke-width:3"
+   id="path431"
+   d="M 148.652,123.585 C 148.652,125.608 147.007,128.272 144.979,129.536 C 142.951,130.801 141.306,130.187 141.306,128.168 L 141.306,112.219 C 141.306,110.199 142.951,107.535 144.979,106.271 C 147.007,105.005 148.652,105.618 148.652,107.638 L 148.652,123.585 z" /><svg:path
+   style="fill:url(#linearGradient3056);stroke:#000000;stroke-width:3"
+   id="path438"
+   d="M 149.438,154.173 C 149.438,156.194 147.794,158.857 145.766,160.122 C 143.736,161.388 142.093,160.775 142.093,158.755 L 142.093,142.806 C 142.093,140.785 143.736,138.122 145.766,136.857 C 147.794,135.592 149.438,136.205 149.438,138.225 L 149.438,154.173 z" /><svg:path
+   style="fill:url(#linearGradient3053);stroke:none"
+   id="path445"
+   d="M 170.754,79.31 L 149.111,91.074 L 134.157,85.454 L 155.801,73.69 L 170.754,79.31 z" /><svg:path
+   style="fill:#cdcdcd;stroke:none"
+   id="path447"
+   d="M 149.144,93.931 L 134.158,88.295 L 134.158,85.453 L 149.144,91.089 L 149.144,93.931 z" /><svg:path
+   style="fill:url(#linearGradient3049);stroke:none"
+   id="path456"
+   d="M 149.145,93.946 L 170.754,82.151 L 170.754,79.276 L 149.145,91.073 L 149.145,93.946 z" /><svg:path
+   style="opacity:0.2;stroke:none"
+   id="path458"
+   d="M 134.157,88.295 L 148.5,97.217 L 155.459,96.717 L 155.459,90.467 L 149.145,93.946 L 134.157,88.295 z" /><svg:path
+   style="opacity:0.2;stroke:none"
+   id="path460"
+   d="M 58.203,76.842 C 65.883,75.937 70.898,79.456 71.383,82.603 C 72.05,86.936 64.29,84.449 64.29,84.449 L 58.203,76.842 z" /><svg:path
+   style="fill:url(#linearGradient3044);stroke:none"
+   id="path477"
+   d="M 51.103,80.899 L 58.204,76.841 C 58.204,76.841 62.258,77.267 63.445,79.377 C 64.966,82.082 64.29,84.448 64.29,84.448 L 56.212,90.096 L 51.103,80.899 z" /><svg:path
+   style="fill:url(#linearGradient3041);stroke:none"
+   id="path492"
+   d="M 58.61,85.033 C 59.191,87.732 57.663,90 55.197,90.097 C 52.731,90.194 50.261,88.086 49.68,85.386 C 49.1,82.687 50.628,80.42 53.094,80.322 C 55.561,80.225 58.03,82.334 58.61,85.033 z" /><svg:path
+   style="opacity:0.2;stroke:none"
+   id="path494"
+   d="M 24.036,97.342 C 31.716,96.437 36.731,99.956 37.216,103.103 C 37.883,107.436 30.123,104.949 30.123,104.949 L 24.036,97.342 z" /><svg:path
+   style="fill:url(#linearGradient3037);stroke:none"
+   id="path511"
+   d="M 17.103,101.399 L 24.204,97.341 C 24.204,97.341 28.258,97.767 29.445,99.877 C 30.966,102.582 30.29,104.948 30.29,104.948 L 22.212,110.596 L 17.103,101.399 z" /><svg:path
+   style="fill:url(#linearGradient3034);stroke:none"
+   id="path526"
+   d="M 24.61,105.533 C 25.191,108.232 23.663,110.5 21.197,110.597 C 18.731,110.694 16.261,108.586 15.68,105.886 C 15.1,103.187 16.628,100.92 19.094,100.822 C 21.561,100.725 24.03,102.834 24.61,105.533 z" /><svg:path
+   style="opacity:0.2;stroke:none"
+   id="path528"
+   d="M 97.537,126.341 C 105.217,125.437 110.232,128.956 110.717,132.103 C 111.383,136.436 103.623,133.949 103.623,133.949 L 97.537,126.341 z" /><svg:path
+   style="opacity:0.2;stroke:none"
+   id="path530"
+   d="M 128.32,87.937 C 127.283,87.497 125.703,87.342 125.703,87.342 C 128.195,86.437 130.008,87.312 130.008,87.312 L 129.977,88.906 C 129.977,88.905 129.352,88.374 128.32,87.937 z" /><svg:path
+   style="fill:url(#linearGradient3029);stroke:none"
+   id="path547"
+   d="M 90.603,130.399 L 97.704,126.341 C 97.704,126.341 101.759,126.767 102.945,128.877 C 104.466,131.582 103.79,133.948 103.79,133.948 L 95.712,139.596 L 90.603,130.399 z" /><svg:path
+   style="fill:url(#linearGradient3026);stroke:none"
+   id="path562"
+   d="M 98.11,134.533 C 98.691,137.232 97.163,139.5 94.697,139.597 C 92.231,139.694 89.761,137.586 89.18,134.886 C 88.6,132.187 90.128,129.92 92.593,129.822 C 95.061,129.725 97.529,131.834 98.11,134.533 z" />
+</svg:svg>

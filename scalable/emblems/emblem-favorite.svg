@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg
+   width="32pt"
+   height="32pt"
+   viewBox="0 0 22.741 24.318"
+   overflow="visible"
+   enable-background="new 0 0 22.741 24.318"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xml="http://www.w3.org/XML/1998/namespace"
+   xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   id="svg153"
+   sodipodi:version="0.32pre"
+   sodipodi:docname="/home/cschalle/Shared/BeOS_SVG/emblem-favorites.svg"
+   sodipodi:docbase="/home/cschalle/Shared/BeOS_SVG/">
+  <sodipodi:namedview
+     id="base" />
+  <metadata
+     id="metadata154">
+    <sfw>
+      <slices />
+      <sliceSourceBounds
+         y="388.643"
+         x="267.471"
+         width="22.741"
+         height="24.318"
+         bottomLeftOrigin="true" />
+    </sfw>
+  </metadata>
+  <defs
+     id="defs155">
+    <filter
+       id="SVG_InvertMaskClipFilter"
+       filterUnits="objectBoundingBox">
+      <feColorMatrix
+         type="matrix"
+         values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0"
+         color-interpolation-filters="sRGB" />
+    </filter>
+  </defs>
+  <defs
+     id="defs157">
+    <filter
+       id="SVG_InvertMaskFilter"
+       filterUnits="objectBoundingBox">
+      <feColorMatrix
+         type="matrix"
+         values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0"
+         color-interpolation-filters="sRGB"
+         result="source" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0 1"
+         in="BackgroundImage"
+         result="back" />
+      <feBlend
+         mode="normal"
+         in2="back"
+         in="source" />
+    </filter>
+  </defs>
+  <defs
+     id="defs159">
+    <filter
+       id="SVG_MaskClipFilter"
+       filterUnits="objectBoundingBox">
+      <feColorMatrix
+         type="matrix"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0" />
+    </filter>
+  </defs>
+  <defs
+     id="defs161">
+    <filter
+       id="SVG_MaskFilter"
+       filterUnits="objectBoundingBox">
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0 1"
+         in="BackgroundImage"
+         result="back" />
+      <feBlend
+         mode="normal"
+         in2="back"
+         in="SourceGraphic" />
+    </filter>
+  </defs>
+  <g
+     id="Layer_1"
+     stroke="#000000">
+    <linearGradient
+       id="XMLID_1_"
+       gradientUnits="userSpaceOnUse"
+       x1="-215.917"
+       y1="325.4941"
+       x2="-222.9362"
+       y2="324.3859"
+       gradientTransform="matrix(1 0 0 -1 238.2041 344.2969)">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop165" />
+      <stop
+         offset="1"
+         style="stop-color:#000000"
+         id="stop166" />
+      
+      
+      
+    </linearGradient>
+    <path
+       opacity="0.2"
+       fill="url(#XMLID_1_)"
+       stroke="none"
+       d="M8.575,24.318l12.3-1.044c0,0,2.24-1.307,1.867-5.04    c-0.134-1.339-4.853-2.985-4.853-2.985L8.575,24.318z"
+       id="path170" />
+    <g
+       id="g171">
+      <linearGradient
+         id="XMLID_2_"
+         gradientUnits="userSpaceOnUse"
+         x1="-195.166"
+         y1="470.9395"
+         x2="-175.044"
+         y2="470.9395"
+         gradientTransform="matrix(-0.8031 -0.3416 0 -1 -137.3466 429.1258)">
+        <stop
+           offset="0"
+           style="stop-color:#FF0000"
+           id="stop173" />
+        <stop
+           offset="1"
+           style="stop-color:#FF6666"
+           id="stop174" />
+        
+        
+        
+      </linearGradient>
+      <path
+         fill="url(#XMLID_2_)"
+         stroke="none"
+         d="M11.45,21.537c0,0-0.05-0.063-0.139-0.181c-0.089,0.041-0.14,0.063-0.14,0.063     L11.45,21.537z"
+         id="path178" />
+      <linearGradient
+         id="XMLID_3_"
+         gradientUnits="userSpaceOnUse"
+         x1="-192.0469"
+         y1="470.9395"
+         x2="-171.9249"
+         y2="470.9395"
+         gradientTransform="matrix(-0.8031 -0.3416 0 -1 -137.3466 429.1258)">
+        <stop
+           offset="0"
+           style="stop-color:#FF0000"
+           id="stop180" />
+        <stop
+           offset="1"
+           style="stop-color:#FF6666"
+           id="stop181" />
+        
+        
+        
+      </linearGradient>
+      <path
+         fill="url(#XMLID_3_)"
+         stroke="none"
+         d="M11.45,21.537c0,0-0.05-0.063-0.139-0.181c-0.089,0.041-0.14,0.063-0.14,0.063     L11.45,21.537z"
+         id="path185" />
+    </g>
+    <path
+       stroke="none"
+       d="M5.156,0.293C4.728,0.49,4.339,0.739,4,1.033l0.063-0.051L1.73,2.644    c-5.799,4.434,4.374,18.387,6.472,21.14l0.408,0.535l0.611-0.282c0.576-0.265,2.588-1.254,4.513-2.891    c1.741-1.067,5.756-3.943,6.633-8.203c0.111-0.538,0.166-1.077,0.166-1.614c0-1.811-0.628-3.609-1.877-5.368    c-1.353-1.903-2.856-2.441-3.88-2.557c-1.064-0.12-2.114,0.178-2.809,0.798l0.069-0.056c0,0-0.188,0.135-0.289,0.207    c-0.525-1.285-1.622-2.792-2.949-3.651C7.567-0.096,6.308-0.236,5.156,0.293z"
+       id="path186" />
+    <linearGradient
+       id="XMLID_4_"
+       gradientUnits="userSpaceOnUse"
+       x1="-230.769"
+       y1="338.8525"
+       x2="-232.3285"
+       y2="341.4517"
+       gradientTransform="matrix(1 0 0 -1 238.2041 344.2969)">
+      <stop
+         offset="0"
+         style="stop-color:#FF0000"
+         id="stop188" />
+      <stop
+         offset="1"
+         style="stop-color:#FF6666"
+         id="stop189" />
+      
+      
+      
+    </linearGradient>
+    <path
+       fill="url(#XMLID_4_)"
+       stroke="none"
+       d="M5.448,0.94c-0.37,0.171-0.686,0.377-0.956,0.611L2.158,3.213l3.068-0.381    c2.207,1.188,3.585,5.201,3.585,5.201s0.877-1.812,2.354-2.193C11.502,4.6,8.437-0.433,5.448,0.94z"
+       id="path193" />
+    <linearGradient
+       id="XMLID_5_"
+       gradientUnits="userSpaceOnUse"
+       x1="-224.3506"
+       y1="335.3955"
+       x2="-221.9295"
+       y2="328.8242"
+       gradientTransform="matrix(1 0 0 -1 238.2041 344.2969)">
+      <stop
+         offset="0"
+         style="stop-color:#FF0000"
+         id="stop195" />
+      <stop
+         offset="1"
+         style="stop-color:#BD0000"
+         id="stop196" />
+      
+      
+      
+    </linearGradient>
+    <path
+       fill="url(#XMLID_5_)"
+       stroke="none"
+       d="M17.913,6.331c-1.94-2.729-4.42-2.532-5.446-1.617l-2.263,1.621l2.572,0.901    l0.604-0.835c0.411,0.307,0.842,0.739,1.293,1.33c4.327,5.67,1.196,10.343-1.857,12.963C16.251,18.604,22.591,12.916,17.913,6.331    z"
+       id="path200" />
+    <linearGradient
+       id="XMLID_6_"
+       gradientUnits="userSpaceOnUse"
+       x1="-229.397"
+       y1="330.4961"
+       x2="-229.397"
+       y2="337.2937"
+       gradientTransform="matrix(1 0 0 -1 238.2041 344.2969)">
+      <stop
+         offset="0"
+         style="stop-color:#FF0000"
+         id="stop202" />
+      <stop
+         offset="1"
+         style="stop-color:#FF6666"
+         id="stop203" />
+      
+      
+      
+    </linearGradient>
+    <path
+       fill="url(#XMLID_6_)"
+       stroke="none"
+       d="M14.674,7.731c-3.498-4.583-5.863,0.302-5.863,0.302s-2.366-6.897-5.863-5.29    c-6.953,3.196,4.395,18.486,5.852,20.399c0.008,0.011,0.017,0.021,0.024,0.032C8.823,23.175,22.095,17.456,14.674,7.731z"
+       id="path207" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="0.711"
+       y="2.5"
+       width="16.52"
+       height="21"
+       id="XMLID_7_">
+      <g
+         filter="url(#SVG_MaskFilter)"
+         id="g209">
+        <mask
+           maskUnits="userSpaceOnUse"
+           x="0.711"
+           y="2.5"
+           width="16.52"
+           height="21"
+           id="XMLID_8_">
+          <g
+             id="g211" />
+        </mask>
+        <image
+           mask="url(#XMLID_8_)"
+           width="59"
+           height="75"
+           xlink:href="FB57C4F4.jpg"
+           transform="matrix(0.28 0 0 0.28 0.7114 2.5)"
+           id="image212" />
+      </g>
+    </mask>
+  </g>
+</svg>
