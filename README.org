@@ -1,4 +1,14 @@
 * A large collection of BeOS icons.
 Curated by Metsatron
 
-Icons from various authors
+Icons from various authors including but not limited to:
+ + My own creations
+ + My own adaptations
+Original and derived icons from:
+ + BeOS-r5
+ + Zeta OS
+ + Haiku OS
+ + KDEclassic
+ + OldGNOME2
+ + Copland
+ + classic95 (Windows 95)
