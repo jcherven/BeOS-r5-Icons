@@ -1,6 +1,8 @@
-* A large collection of BeOS & period correct icons.
-Curated by Metsatron
-
+* BeOS-r5-Icons
+** About
+A large collection of BeOS & period correct icons.
+- Curated by Metsatron
+[[./screenshot.png]]
 Icons from various authors including but not limited to:
  + My own creations
  + My own adaptations
